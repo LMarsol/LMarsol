@@ -7,8 +7,8 @@
 ### About me
 
 - I am a software engineer skilled in Mobile Development and currently live in Brazil.
-- I work with development for at least 5 years, I have experience with many technologies as Android, iOS and Flutter.
-- Today my main stack is related to mobile development using Flutter
+- I work with development for at least 5 years, I have experience with many technologies as Android. iOS, React Native and Flutter.
+- Today my main stack is related to mobile development using Flutter.
 
 ---
 
