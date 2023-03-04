@@ -7,14 +7,10 @@
 ### About me
 
 - I am a software engineer skilled in Mobile Development and currently live in Brazil.
-- I work with development for at least 5 years, I have experience with many technologies as Android. iOS, React Native and Flutter.
+- I work with development for at least 5 years, I have experience with many technologies as Android, iOS, React and Flutter.
 - Today my main stack is related to mobile development using Flutter.
 
 ---
-
-<a href="https://github.com/francisco1code/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMarsol&hide=jupyter%20notebook,html&theme=dracula" />
-</a>
 
 ### Technologies & Tools
 
